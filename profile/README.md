@@ -66,6 +66,7 @@ Dominar o full-stack moderno, partindo da base do CS50x de Harvard até a implem
 | **Frontend** | React, NextJS, ViteJS |
 | **Backend** | FastAPI |
 | **Banco de Dados** | PostgreSQL, Meilisearch |
+| **Caching** | Redis |
 | **Infra/DevOps** | Docker, Git, Harness Engineering |
 
 ---
