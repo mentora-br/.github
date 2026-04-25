@@ -3,7 +3,7 @@
 Bem-vindo ao repositório central de estudos e projetos da organização.
 
 ## 🎯 Objetivo
-Dominar a stack full-stack moderna, partindo da base do CS50x de Harvard até a implementação de sistemas.
+Dominar o full-stack moderno, partindo da base do CS50x de Harvard até a implementação de sistemas.
 
 ---
 
